@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3:*)",
+      "Bash(python:*)",
+      "Bash(PYTHONIOENCODING=utf-8 python:*)",
+      "Bash(npm run dev)",
+      "Bash(npm run dev:mp-weixin:*)",
+      "Bash(ls:*)",
+      "Bash(java -jar:*)",
+      "Bash(curl:*)",
+      "Bash(netstat:*)",
+      "Bash(taskkill:*)",
+      "Bash(mvn clean package:*)",
+      "Bash(mysql:*)",
+      "Bash(/dev/null:*)"
+    ]
+  }
+}
